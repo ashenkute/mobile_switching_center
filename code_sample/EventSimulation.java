@@ -1,9 +1,9 @@
 /*
-	Alazar Shenkute
-	October 31st 2016
-	Event Simulation
-	15 channels, 3 cells per cluster, 3 clusters
-	onyl care about co-channel interference 
+*	Alazar Shenkute
+*	October 31st 2016
+*	Event Simulation
+*	15 channels, 3 cells per cluster, 3 clusters
+*	onyl care about co-channel interference 
 */
 import java.lang.*;
 import java.util.*;
