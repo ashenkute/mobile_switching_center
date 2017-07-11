@@ -20,7 +20,7 @@ public class EventSimulation{
 		event_queue = queue;
 		msc = new MobileSwitchingCenter( queue );
 	}
-	// take a event of the queue
+	// take an event of the queue
 	// process it
 	public void processEvents()
 	{
